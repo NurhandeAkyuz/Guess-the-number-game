@@ -7,3 +7,6 @@
 - Install the required libraries.
 - Run the code.
 
+#### Authors:
+- Nurhande Akyüz
+- Diala Jubeh
